@@ -1,0 +1,3 @@
+/home/csmajs/jmann028/Filmify/CMakeFiles/run.dir
+/home/csmajs/jmann028/Filmify/CMakeFiles/edit_cache.dir
+/home/csmajs/jmann028/Filmify/CMakeFiles/rebuild_cache.dir
